@@ -1,5 +1,6 @@
+<div align="center">
 # Hi, I'm Matteo aka [@LinkIT3][githubprofile]
-
+<div/>
 ### I'm an IT student, Developer, and Gamer!
 
 - 📖 I'm currently studying at [UNIMORE][unimore] University in Modena, Italy
