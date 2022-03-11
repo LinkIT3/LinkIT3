@@ -4,11 +4,11 @@
 
 - 📖 I'm currently studying at [UNIMORE][unimore] University in Modena, Italy
 
-> I like:
-  - 🎬 Movies
-  - 🎮 Video Games
-  - 🎸 Rock Music
-  - 💻 PC Building
+- I like:
+  > 🎬 Movies
+  > 🎮 Video Games
+  > 🎸 Rock Music
+  > 💻 PC Building
 
 <br />
 
