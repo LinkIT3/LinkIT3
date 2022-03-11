@@ -24,7 +24,7 @@
 
 <br />
 
-### Languade and Tools:
+### Language and Tools:
 
 <img align="left" alt="html" width="26px" src="https://github.com/LinkIT3/GitHub-README/blob/main/img/html.png"/>
 
@@ -43,11 +43,11 @@
 
 <br />
 
-![LinkIT3 GitHub stats](https://github-readme-stats.vercel.app/api?username=LinkIT3&show_icons=true&hide_border=true)
+![LinkIT3 GitHub stats](https://github-readme-stats.vercel.app/api?username=LinkIT3&show_icons=true&hide_border=true&theme=github_dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinkIT3&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinkIT3&repo=Regolatore-per-giradischi&show_howner=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinkIT3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinkIT3&hide_border=true&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [githubprofile]: https://github.com/LinkIT3
 [unimore]: https://www.unimore.it
