@@ -45,7 +45,9 @@
 
 ![LinkIT3 GitHub stats](https://github-readme-stats.vercel.app/api?username=LinkIT3&show_icons=true&hide_border=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinkIT3&repo=github-readme-stats)](https://github.com/LinkIT3/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinkIT3&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinkIT3)](https://github.com/anuraghazra/github-readme-stats)
 
 [githubprofile]: https://github.com/LinkIT3
 [unimore]: https://www.unimore.it
