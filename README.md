@@ -1,4 +1,4 @@
-<align="center /># Hi, I'm Matteo aka [@LinkIT3][githubprofile]
+<align="center" /># Hi, I'm Matteo aka [@LinkIT3][githubprofile]
 
 ### I'm an IT student, Developer, and Gamer!
 
