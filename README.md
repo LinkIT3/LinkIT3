@@ -1,6 +1,6 @@
 # Hi, I'm Matteo aka [@LinkIT3][githubprofile]
 
-  ### I'm an IT student, Developer, and Gamer!
+  ### I'm a Computer Science student, Developer, and Gamer!
 
 - 📖 I'm currently studying at [UNIMORE][unimore] University in Modena, Italy
 
