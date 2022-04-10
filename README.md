@@ -26,15 +26,16 @@
 
 ### Language and Tools:
 
+
+<img align="left" alt="C++" width="26px" src="https://github.com/LinkIT3/README_img/blob/main/img/c-.png"/>
+
+<img align="left" alt="arduino" width="26px" src="https://github.com/LinkIT3/README_img/blob/main/img/arduino.png"/>
+
 <img align="left" alt="html" width="26px" src="https://github.com/LinkIT3/README_img/blob/main/img/html.png"/>
 
 <img align="left" alt="css" width="26px" src="https://github.com/LinkIT3/README_img/blob/main/img/css.png"/>
 
 <img align="left" alt="js" width="26px" src="https://github.com/LinkIT3/README_img/blob/main/img/js.png"/>
-
-<img align="left" alt="C++" width="26px" src="https://github.com/LinkIT3/README_img/blob/main/img/c-.png"/>
-
-<img align="left" alt="arduino" width="26px" src="https://github.com/LinkIT3/README_img/blob/main/img/arduino.png"/>
 
 <br />
 <br />
