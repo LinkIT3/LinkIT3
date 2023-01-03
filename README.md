@@ -53,5 +53,5 @@
 [githubprofile]: https://github.com/LinkIT3
 [unimore]: https://www.unimore.it
 [website]: https://matteocarriera.com
-[linkedin]: https://matteocarriera.com
+[linkedin]: https://www.linkedin.com/in/matteo-carriera-91795a260
 [email]: mailto:matteo2002carriera@gmail.com
