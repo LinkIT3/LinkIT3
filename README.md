@@ -31,6 +31,8 @@
 
 <img align="left" alt="arduino" width="26px" src="https://github.com/LinkIT3/README_img/blob/main/img/arduino.png"/>
 
+<img align="left" alt="java" width="26px" src="https://github.com/LinkIT3/README_img/blob/main/img/java.png"/>
+
 <img align="left" alt="html" width="26px" src="https://github.com/LinkIT3/README_img/blob/main/img/html.png"/>
 
 <img align="left" alt="css" width="26px" src="https://github.com/LinkIT3/README_img/blob/main/img/css.png"/>
